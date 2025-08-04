@@ -1,5 +1,5 @@
-import pytest
 
+import pytest
 from ui.pageObjects.DashboardPage import DashboardPage
 from ui.pageObjects.LoginPage import LoginPage
 from ui.pageObjects.Navbar import Navbar
