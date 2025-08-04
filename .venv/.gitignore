@@ -1,0 +1,26 @@
+# Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Environment files
+.env
+.env/
+*.env
+.venv/
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Pytest
+htmlcov/
+.cache/
+.pytest_cache/
+
+# Config files
+config/config.json
