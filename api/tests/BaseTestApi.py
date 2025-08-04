@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-#API test are not in scope for this cersion, For future purpose only
+#API test are not in scope for this version, For future purpose only
 class BaseTestApi:
     def __init__(self, env="prod"):
         # Load config

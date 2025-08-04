@@ -9,7 +9,7 @@
 
 ---
 ##  מבנה הפרויקט:
-project/ │ └── api/ ├── ui/ │├── pageObjects/tests ├── utils/ ├── docs/ │ ├── STP_Document.md │ ├── STD_Document.pdf│ ├── bug_reports.md │ └── screenshots/ ├── conftest.py ├└── README.md
+project/ │ └── api/ ├── ui/ │├── pageObjects/tests ├── utils/ ├── docs/ │ ├── STP_Document.md │ ├── STD_Document.pdf│ ├── bug_reports.md │ Improvement_Suggestions.md|└── screenshots/ ├── conftest.py ├└── README.md
 
 
 ---
@@ -31,6 +31,7 @@ BROWSER – דפדפן (אפשרויות: chrome, firefox)
 STP_Document.md – מסמך תכנון הבדיקות (Software Test Plan)
 STD.md_Document – טבלאות תרחישי בדיקה (Software Test Design)
 Bug_Report.md – דו"חות באגים מלאים כולל תיאור, שחזור, תוצאה צפויה וקישורים לתמונות
+Improvement_Suggestions - הצעות לשיפור וייעול המערכת
 
 Screenshots:
  כל הבאגים כוללים קישור לתמונות שנמצאות בתיקייה /screenshots/.
